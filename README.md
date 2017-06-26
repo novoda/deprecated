@@ -4,6 +4,7 @@ This is the Novoda Deprecated Libraries Archive, where projects that are no long
 
 ### Create a bundle for the archive
 To make a git bundle from current project from inside project directory execute: 
+
 `git bundle create [file_name] --tags --branches`
 
 ### Resurrect from a bundle
